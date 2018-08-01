@@ -1,0 +1,18 @@
+.column {
+  width: 1000px;
+  height: 310px;
+  border: solid green 4px;
+  padding: 4px;
+  margin: 12px;
+}
+
+.photo {
+  width: 400px;
+  float: right;
+}
+.important p {
+  color: blue;
+}
+.notimportant p{
+  font-weight: bold;
+}
